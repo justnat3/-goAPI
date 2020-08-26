@@ -1,6 +1,1 @@
-# goAPI
-
-
-What is Nameshed.dev in go 
-
-# big fast
+# API for naming machines random strings
